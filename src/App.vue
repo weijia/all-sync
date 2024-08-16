@@ -7,6 +7,26 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import RemoteStorage from 'remotestoragejs'
+import Widget from 'remotestorage-widget'
+
+const remoteStorage = new RemoteStorage({logging: true})
+remoteStorage.access.claim('*', 'rw');
+const widget = new Widget(remoteStorage)
+widget.attach()
+
+remoteStorage.on('connected', () => {
+  const userAddress = remoteStorage.remote.userAddress;
+  console.debug(`${userAddress} connected their remote storage.`);
+})
+
+remoteStorage.on('network-offline', () => {
+  console.debug(`We're offline now.`);
+})
+
+remoteStorage.on('network-online', () => {
+  console.debug(`Hooray, we're back online.`);
+})
 
 export default {
   name: 'App',
