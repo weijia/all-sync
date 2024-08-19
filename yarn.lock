@@ -21,7 +21,7 @@
 
 "@apideck/better-ajv-errors@^0.3.1":
   version "0.3.6"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/@apideck/better-ajv-errors/-/better-ajv-errors-0.3.6.tgz"
+  resolved "https://registry.npmjs.org//@apideck/better-ajv-errors/-/better-ajv-errors-0.3.6.tgz"
   integrity sha512-P+ZygBLZtkp0qqOAJJVX4oX/sFo5JR3eBWwwuqHHhK0GIgQOKWrAfiAaWX0aArHkRWHMuggFEgAZNxVPwPZYaA==
   dependencies:
     json-schema "^0.4.0"
@@ -1370,7 +1370,7 @@
 
 "@types/node@16.11.59":
   version "16.11.59"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/@types/node/-/node-16.11.59.tgz"
+  resolved "https://registry.npmjs.org//@types/node/-/node-16.11.59.tgz"
   integrity sha512-6u+36Dj3aDzhfBVUf/mfmc92OEdzQ2kx2jcXGdigfl70E/neV21ZHE6UCz4MDzTRcVqGAM27fk+DLXvyDsn3Jw==
 
 "@types/normalize-package-data@^2.4.0":
@@ -1443,7 +1443,7 @@
 
 "@types/tv4@^1.2.29":
   version "1.2.33"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/@types/tv4/-/tv4-1.2.33.tgz"
+  resolved "https://registry.npmjs.org//@types/tv4/-/tv4-1.2.33.tgz"
   integrity sha512-7phCVTXC6Bj50IV1iKOwqGkR4JONJyMbRZnKTSuujv1S/tO9rG5OdCt7BMSjytO+zJmYdn1/I4fd3SH0gtO99g==
 
 "@types/ws@^8.5.5":
@@ -1999,7 +1999,7 @@ ajv-keywords@^5.1.0:
 
 ajv@^6.10.0, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.9.1:
   version "6.12.6"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/ajv/-/ajv-6.12.6.tgz"
+  resolved "https://registry.npmjs.org//ajv/-/ajv-6.12.6.tgz"
   integrity sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g==
   dependencies:
     fast-deep-equal "^3.1.1"
@@ -2009,7 +2009,7 @@ ajv@^6.10.0, ajv@^6.12.4, ajv@^6.12.5, ajv@^6.9.1:
 
 ajv@^8.0.0:
   version "8.17.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/ajv/-/ajv-8.17.1.tgz"
+  resolved "https://registry.npmjs.org//ajv/-/ajv-8.17.1.tgz"
   integrity sha512-B/gBuNg5SiMTrPkC+A2+cW0RszwxYmn6VYxB/inlBStS5nx6xHIt/ehKRhIMhqusl7a8LjQoZnjCs5vhwxOQ1g==
   dependencies:
     fast-deep-equal "^3.1.3"
@@ -2019,7 +2019,7 @@ ajv@^8.0.0:
 
 ajv@^8.0.1:
   version "8.17.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/ajv/-/ajv-8.17.1.tgz"
+  resolved "https://registry.npmjs.org//ajv/-/ajv-8.17.1.tgz"
   integrity sha512-B/gBuNg5SiMTrPkC+A2+cW0RszwxYmn6VYxB/inlBStS5nx6xHIt/ehKRhIMhqusl7a8LjQoZnjCs5vhwxOQ1g==
   dependencies:
     fast-deep-equal "^3.1.3"
@@ -2029,7 +2029,7 @@ ajv@^8.0.1:
 
 ajv@^8.6.0, ajv@>=8:
   version "8.17.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/ajv/-/ajv-8.17.1.tgz"
+  resolved "https://registry.npmjs.org//ajv/-/ajv-8.17.1.tgz"
   integrity sha512-B/gBuNg5SiMTrPkC+A2+cW0RszwxYmn6VYxB/inlBStS5nx6xHIt/ehKRhIMhqusl7a8LjQoZnjCs5vhwxOQ1g==
   dependencies:
     fast-deep-equal "^3.1.3"
@@ -2039,7 +2039,7 @@ ajv@^8.6.0, ajv@>=8:
 
 ajv@^8.8.2, ajv@^8.9.0:
   version "8.17.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/ajv/-/ajv-8.17.1.tgz"
+  resolved "https://registry.npmjs.org//ajv/-/ajv-8.17.1.tgz"
   integrity sha512-B/gBuNg5SiMTrPkC+A2+cW0RszwxYmn6VYxB/inlBStS5nx6xHIt/ehKRhIMhqusl7a8LjQoZnjCs5vhwxOQ1g==
   dependencies:
     fast-deep-equal "^3.1.3"
@@ -3396,7 +3396,7 @@ eslint-webpack-plugin@^3.1.0:
 
 esm@^3.2.25:
   version "3.2.25"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/esm/-/esm-3.2.25.tgz"
+  resolved "https://registry.npmjs.org//esm/-/esm-3.2.25.tgz"
   integrity sha512-U1suiZ2oDVWv4zPO56S0NcR5QriEahGtdN2OR6FiOG4WJvcjBVFB0qI4+eKoWFH483PKGuLuu6V8Z4T5g63UVA==
 
 espree@^7.3.0, espree@^7.3.1:
@@ -3587,7 +3587,7 @@ fast-levenshtein@^2.0.6:
 
 fast-uri@^3.0.1:
   version "3.0.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/fast-uri/-/fast-uri-3.0.1.tgz"
+  resolved "https://registry.npmjs.org//fast-uri/-/fast-uri-3.0.1.tgz"
   integrity sha512-MWipKbbYiYI0UC7cl8m/i/IWTqfC8YXsqjzybjddLsFjStroQzsHXkc73JutMvBiXmOvapk+axIl79ig5t55Bw==
 
 fastq@^1.6.0:
@@ -3730,7 +3730,7 @@ fs.realpath@^1.0.0:
 
 fsevents@^2.3.2, fsevents@~2.3.2:
   version "2.3.3"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/fsevents/-/fsevents-2.3.3.tgz"
+  resolved "https://registry.npmjs.org//fsevents/-/fsevents-2.3.3.tgz"
   integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
 function-bind@^1.1.2:
@@ -4511,17 +4511,17 @@ json-parse-even-better-errors@^2.3.0, json-parse-even-better-errors@^2.3.1:
 
 json-schema-traverse@^0.4.1:
   version "0.4.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz"
+  resolved "https://registry.npmjs.org//json-schema-traverse/-/json-schema-traverse-0.4.1.tgz"
   integrity sha512-xbbCH5dCYU5T8LcEhhuh7HJ88HXuW3qsI3Y0zOZFKfZEHcpWiHU/Jxzk629Brsab/mMiHQti9wMP+845RPe3Vg==
 
 json-schema-traverse@^1.0.0:
   version "1.0.0"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz"
+  resolved "https://registry.npmjs.org//json-schema-traverse/-/json-schema-traverse-1.0.0.tgz"
   integrity sha512-NM8/P9n3XjXhIZn1lLhkFaACTOURQXjWhV4BA/RnOv8xvgqtqpAX9IO4mRQxSx1Rlo4tqzeqb0sOlruaOy3dug==
 
 json-schema@^0.4.0:
   version "0.4.0"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/json-schema/-/json-schema-0.4.0.tgz"
+  resolved "https://registry.npmjs.org//json-schema/-/json-schema-0.4.0.tgz"
   integrity sha512-es94M3nTIfsEPisRafak+HDLfHXnKBhV3vU5eqPcS3flIWqcxJWgXHXiey3YrpaNsanY5ei1VoYEbOzijuq9BA==
 
 json-stable-stringify-without-jsonify@^1.0.1:
@@ -4552,7 +4552,7 @@ jsonfile@^6.0.1:
 
 jsonpointer@^5.0.0:
   version "5.0.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/jsonpointer/-/jsonpointer-5.0.1.tgz"
+  resolved "https://registry.npmjs.org//jsonpointer/-/jsonpointer-5.0.1.tgz"
   integrity sha512-p/nXbhSEcu3pZRdkW1OfJhpsVtW1gd4Wa1fnQc9YLiTfAjn0312eMKimbdIQzuZl9aa9xUGaRlP9T/CJE/ditQ==
 
 keyv@^4.5.3:
@@ -4589,7 +4589,7 @@ launch-editor@^2.2.1, launch-editor@^2.6.0, launch-editor@^2.8.1:
 
 leven@^3.1.0:
   version "3.1.0"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/leven/-/leven-3.1.0.tgz"
+  resolved "https://registry.npmjs.org//leven/-/leven-3.1.0.tgz"
   integrity sha512-qsda+H8jTaUaN/x5vzW2rzc+8Rw4TAQ/4KjB46IwK5VH+IlVeeeje/EoZRpiXvIqjFgK84QffqPztGI3VBLG1A==
 
 levn@^0.4.1:
@@ -5781,12 +5781,12 @@ relateurl@^0.2.7:
 
 remotestorage-widget@^1.5.5:
   version "1.5.5"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/remotestorage-widget/-/remotestorage-widget-1.5.5.tgz"
+  resolved "https://registry.npmjs.org//remotestorage-widget/-/remotestorage-widget-1.5.5.tgz"
   integrity sha512-1YO1liO6g2sLohC+oVca+NnrGYX6nBSjteq/5as8WsUUBW8gxCCI/XMPb/FHlslzVdjRvn5edVs8JuPSABD05A==
 
 remotestoragejs@^2.0.0-beta.6:
   version "2.0.0-beta.6"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/remotestoragejs/-/remotestoragejs-2.0.0-beta.6.tgz"
+  resolved "https://registry.npmjs.org//remotestoragejs/-/remotestoragejs-2.0.0-beta.6.tgz"
   integrity sha512-xGBmCPe99F4Gs/IEEzvGFjlmOkG48rRCSFz4+7xFNVs4WUJ3nzkm+fQbKelTB2HHErgOLSIyxc2dloqhI5srAQ==
   dependencies:
     "@types/node" "16.11.59"
@@ -5816,7 +5816,7 @@ require-directory@^2.1.1:
 
 require-from-string@^2.0.2:
   version "2.0.2"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/require-from-string/-/require-from-string-2.0.2.tgz"
+  resolved "https://registry.npmjs.org//require-from-string/-/require-from-string-2.0.2.tgz"
   integrity sha512-Xf0nWe6RseziFMu+Ap9biiUbmplq6S9/p+7w7YXP/JBHhrUDDUhwa+vANyubuqfZWTveU//DYVGsDG7RKL/vEw==
 
 requires-port@^1.0.0:
@@ -6620,7 +6620,7 @@ tslib@^2.0.3:
 
 tv4@^1.3.0:
   version "1.3.0"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/tv4/-/tv4-1.3.0.tgz"
+  resolved "https://registry.npmjs.org//tv4/-/tv4-1.3.0.tgz"
   integrity sha512-afizzfpJgvPr+eDkREK4MxJ/+r8nEEHcmitwgnPUqpaP+FpwQyadnxNoSACbgc/b1LsZYtODGoPiFxQrgJgjvw==
 
 type-check@^0.4.0, type-check@~0.4.0:
@@ -6895,7 +6895,7 @@ wcwidth@^1.0.1:
 
 webfinger.js@^2.7.1:
   version "2.7.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/webfinger.js/-/webfinger.js-2.7.1.tgz"
+  resolved "https://registry.npmjs.org//webfinger.js/-/webfinger.js-2.7.1.tgz"
   integrity sha512-H4RokaE4RC39N3uiRTcjKMmy6yYg06lUPORQHvv8DjowZ6I5SalxUeoqHbtTN3EVBmYP/XHQ8Ow6BLEIpe2DtA==
   dependencies:
     xhr2 "0.2.1"
@@ -7325,7 +7325,7 @@ ws@^8.13.0:
 
 xhr2@^0.2.1, xhr2@0.2.1:
   version "0.2.1"
-  resolved "https://engci-maven-master.cisco.com/artifactory/api/npm/collab-npm/xhr2/-/xhr2-0.2.1.tgz"
+  resolved "https://registry.npmjs.org//xhr2/-/xhr2-0.2.1.tgz"
   integrity sha512-sID0rrVCqkVNUn8t6xuv9+6FViXjUVXq8H5rWOH2rz9fDNQEd4g0EA2XlcEdJXRz5BMEn4O1pJFdT+z4YHhoWw==
 
 y18n@^5.0.5:
